@@ -1,0 +1,2 @@
+# boomerang
+types of boomerang
